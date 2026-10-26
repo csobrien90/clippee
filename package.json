@@ -1,0 +1,12 @@
+{
+  "name": "clippee",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Concert video clipper as local macOS web app for silence-based detection, boundary editing, and splitting concert recordings into numbered MP4 clips.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
